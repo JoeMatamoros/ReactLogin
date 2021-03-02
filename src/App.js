@@ -10,7 +10,6 @@ function App() {
     <section>
       <BrandHeader></BrandHeader>
       <section className="Login">
-        <h1>Inicio de sesion</h1>
         <Login></Login>
       </section>
       <CardHolder>
