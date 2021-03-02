@@ -12,12 +12,6 @@ function App() {
       <section className="Login">
         <Login></Login>
       </section>
-      <CardHolder>
-        <Cards></Cards>
-        <Cards></Cards>
-        <Cards></Cards>
-        <Cards></Cards>
-      </CardHolder>
     </section>
   );
 }
